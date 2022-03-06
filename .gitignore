@@ -1,0 +1,7 @@
+*.test
+*.out
+go.work
+/vendor/
+/Godeps/
+go
+derived.gen.go
